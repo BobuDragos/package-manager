@@ -3,5 +3,7 @@ Scripts to simplify setting up a Windows box
 
 
 ```
-winget install 
+mas
+install winget/choco
+install packages 
 ```
