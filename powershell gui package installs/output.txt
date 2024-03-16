@@ -1,0 +1,25 @@
+   -                                                                                                                         Found OneNote [XPFFZHVGQWWLHB] Version 16.0.17231.20236
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Agreements for OneNote [XPFFZHVGQWWLHB] Version 16.0.17231.20236
+Version: 16.0.17231.20236
+Publisher: Microsoft Corporation
+Publisher Url: https://onenote.com/
+Publisher Support Url: http://oneanwlt@microsoft.com/
+License: http://go.microsoft.com/fwlink/?LinkID=524989
+
+Privacy Url: https://privacy.microsoft.com/en-us/privacystatement
+Copyright: © Microsoft Corporation
+Agreements:
+  Category: Productivity
+  Pricing: Free
+  Free Trial: No
+  Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+  Seizure Warning: https://aka.ms/microsoft-store-seizure-warning
+  Store License Terms: https://aka.ms/microsoft-store-license
+
+Downloading https://cdn.storeedgefd.dsx.mp.microsoft.com/wus2/cachedpackages/54449e3a-7d48-4a3b-8938-6f0ac92e27ff_79d2171aed9029b7ac2322bf358edf3f1cf0dead65056f094d6f1907d1a7f82e
+   -    \    |    /                                                                                                                           ██████████████████████████████  7.12 MB / 7.12 MB
+Successfully verified installer hash
+Starting package install...
+   -    \ 
